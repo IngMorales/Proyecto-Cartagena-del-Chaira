@@ -1,0 +1,18 @@
+!table
+!version 300
+!charset Neutral
+
+Definition Table
+  File "Cartagena ACTUAL.ecw"
+  Type "RASTER"
+  (-74.86791283, 1.34209220) (0, 0) Label "Point 1",
+  (-74.83035922, 1.31716241) (14001, 9297) Label "Point 2",
+  (-74.86791283, 1.31716241) (0, 9297) Label "Point 3",
+  (-74.83035922, 1.34209220) (14001, 0) Label "Point 4",
+  (-74.84913468, 1.32962599) (7000, 4648) Label "Point 5",
+  (-74.84913468, 1.34209220) (7000, 0) Label "Point 6",
+  (-74.86791283, 1.32962599) (0, 4648) Label "Point 7",
+  (-74.83035922, 1.32962599) (14001, 4648) Label "Point 8",
+  (-74.84913468, 1.31716241) (7000, 9297) Label "Point 9"
+ CoordSys Earth Projection 10, 157, 7, 0
+ Units "degree"

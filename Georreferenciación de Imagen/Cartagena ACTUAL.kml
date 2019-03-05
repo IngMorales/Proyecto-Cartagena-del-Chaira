@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml><GroundOverlay><name>Cartagena ACTUAL.ecw</name><color>88ffffff</color><Icon>
+<href>Cartagena ACTUAL.ecw</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north>1.34209219519659</north>
+<south>1.31716241247899</south>
+<east>-74.8303592205048</east>
+<west>-74.8679128289223</west>
+</LatLonBox></GroundOverlay></kml>
